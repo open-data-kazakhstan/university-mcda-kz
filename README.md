@@ -24,4 +24,4 @@
 <PlotlyBarChart data={{ url: data/data.csv' }} xAxis="University" yAxis="QS_rating" />
 <FlatUiTable data={{ url: 'data/data.csv' }} />
 
-## 🗂 data.csv
+## data.csv
