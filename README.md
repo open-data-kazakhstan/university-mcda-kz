@@ -21,8 +21,8 @@
 - Әлеуметтік-экономикалық және білім беру жүйесін зерттеуде модельдер құру.
 
 ## Визуализация
-<PlotlyBarChart data={{ url: 'data/rating.csv' }} xAxis="University" yAxis="Score" />
+<PlotlyBarChart data={{ url: 'data/rating_4.csv' }} xAxis="University" yAxis="Score" />
 
-<FlatUiTable data={{ url: 'data/rating.csv'}} />
+<FlatUiTable data={{ url: 'data/rating_4.csv'}} />
 
 ## data.csv
