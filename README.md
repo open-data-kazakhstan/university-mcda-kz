@@ -22,6 +22,6 @@
 
 ## Визуализация
 <PlotlyBarChart data={{ url: 'data/rating.csv' }} xAxis="University" yAxis="Score" />
-<FlatUiTable data={{ url: 'data/rating.csv' }} />
+<FlatUiTable data={{ url: 'data/rating.csv'}} />
 
 ## data.csv
