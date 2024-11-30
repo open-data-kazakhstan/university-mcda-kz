@@ -1,0 +1,18 @@
+{
+  "title": "University_rating",
+  "description": "",
+  "logo": "",
+  "navbarTitle": {
+    "logo": "",
+    "text": "Aggregated Indicators KZ"
+  },
+  "author": {
+    "name": "Open Data Kazakhstan",
+    "url": "",
+    "logo": ""
+  },
+  "navLinks": [
+    { "href": "/data", "name": "data" }
+  ],
+  "showSidebar": true
+}
